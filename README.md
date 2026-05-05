@@ -55,7 +55,7 @@ RepoMind uses a microservice architecture to separate concerns and ensure scalab
 ## 📸 Screenshots
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
   <div>
-    <img src="https://github.com/herin7/gitforme/raw/main/sc/ll3.png" alt="File Explorer" style="width: 100%; max-height: 300px; object-fit: contain; border: 1px solid #ddd; border-radius: 8px;"/>
+    <img src="https://github.com/herin7/gitforme/raw/main/sc/ll2.png" alt="File Explorer" style="width: 100%; max-height: 300px; object-fit: contain; border: 1px solid #ddd; border-radius: 8px;"/>
     <p><em>Landing Page</em></p>
   </div>
 </div>
@@ -79,7 +79,7 @@ Want to run RepoMind on your own machine? Here’s how.
 
 1.  **Clone the Repository**
     ```sh
-    git clone https://github.com/herin7/gitforme.git
+    git clone https://github.com/spy729/repomind.git
     cd gitforme
     ```
 
