@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/herin7/gitforme/main/gitforme/logo.png" alt="GitForMe Logo" width="150"/>
   <h1>RepoMind</h1>
   <p><strong>Understand any GitHub repository in minutes, not days.</strong></p>
   <p>Your AI-powered co-pilot for navigating, understanding, and contributing to open-source projects.</p>
