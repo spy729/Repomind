@@ -281,11 +281,11 @@ const GitformeUi = () => {
       <footer className="text-center py-8 px-4 mt-16 border-t-2 border-black bg-white/50">
         <div className="flex flex-col items-center gap-3">
           <p className="flex items-center gap-2 text-gray-600 font-medium">
-            Inspired by: <a href="https://gitingest.com/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">Gitingest.com</a>
+            Inspired by: <a href="" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">Mrs. Bhumica Verma & Akhilesh Verma</a> 
           </p>
           <p className="flex items-center gap-2 text-gray-600 font-medium">
             <LaptopIcon />
-            Created by <a href="https://github.com/herin7" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">Herin</a>
+            Created by <a href="https://github.com/spy729" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">Group 11</a>
           </p>
           <p className="text-gray-500 text-sm">
             &copy; {new Date().getFullYear()} GitForMe. All Rights Reserved.

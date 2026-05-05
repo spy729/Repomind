@@ -5,12 +5,7 @@
   <p>Your AI-powered co-pilot for navigating, understanding, and contributing to open-source projects.</p>
   <br/>
   <p>
-    <a href="https://www.gitforme.tech" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-gitforme.tech-brightgreen?style=for-the-badge&logo=icloud" alt="Live Demo"></a>
-  </p>
-  <p>
-    <a href="https://github.com/herin7/gitforme/releases"><img src="https://img.shields.io/github/v/release/herin7/gitforme?style=flat-square" alt="GitHub release"></a>
-    <a href="https://github.com/herin7/gitforme/issues"><img src="https://img.shields.io/github/issues/herin7/gitforme?style=flat-square" alt="Issues"></a>
-    <a href="https://github.com/herin7/gitforme/stargazers"><img src="https://img.shields.io/github/stars/herin7/gitforme?style=flat-square" alt="Stars"></a>
+    <a href="https://repomind-rho-orcin.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-gitforme.tech-brightgreen?style=for-the-badge&logo=icloud" alt="Live Demo"></a>
   </p>
 </div>
 
@@ -154,6 +149,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## 📧 Contact
 
-Herin - [@spy729](https://github.com/spy729)
+spy729 - [@spy729](https://github.com/spy729)
 
 Project Link: [https://github.com/spy729/repomind](https://github.com/spy729/repomind)

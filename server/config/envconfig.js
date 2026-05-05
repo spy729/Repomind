@@ -9,10 +9,10 @@ const config = {
   isProduction,
   frontendUrl: isProduction 
     ? process.env.FRONTEND_URL || 'https://gitforme.tech'
-    : process.env.FRONTEND_URL || 'http://localhost:5173',
+    : process.env.FRONTEND_URL || 'https://repomind-rho-orcin.vercel.app/',
   backendUrl: isProduction
     ? process.env.BACKEND_URL || 'https://gitforme.onrender.com'
-    : process.env.BACKEND_URL || 'http://localhost:3000',
+    : process.env.BACKEND_URL || 'https://unquickly-unbeautified-twyla.ngrok-free.dev',
 //   cookieDomain: isProduction ? '.gitforme.tech' : undefined,
   sameSite: 'none',
   secure: isProduction,

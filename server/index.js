@@ -37,9 +37,13 @@ const allowedOrigins = [
   'http://localhost:5173',
   'http://localhost:5173/',
 ];
+const allowAllOrigins = process.env.ALLOW_ALL_ORIGINS === 'true';
 
 app.use(cors({
   origin: function (origin, callback) {
+    if (allowAllOrigins) {
+      return callback(null, true);
+    }
     if (!origin && !config.isProduction) {
       return callback(null, true);
     }
