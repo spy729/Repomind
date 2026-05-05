@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/herin7/gitforme/main/gitforme/logo.png" alt="GitForMe Logo" width="150"/>
-  <h1>GitForMe</h1>
+  <h1>RepoMind</h1>
   <p><strong>Understand any GitHub repository in minutes, not days.</strong></p>
   <p>Your AI-powered co-pilot for navigating, understanding, and contributing to open-source projects.</p>
   <br/>
@@ -18,11 +18,11 @@
 
 Jumping into a new, complex GitHub repository can feel like navigating an ocean without a map. That initial "where do I even start?" moment is a real blocker for developers who want to contribute to open-source.
 
-**GitForMe** is an intelligent code exploration platform that solves this problem. Just paste a repository URL, and GitForMe generates a comprehensive, interactive dashboard that demystifies the codebase, helping you make your first contribution faster than ever.
+**RepoMind** is an intelligent code exploration platform that solves this problem. Just paste a repository URL, and GitForMe generates a comprehensive, interactive dashboard that demystifies the codebase, helping you make your first contribution faster than ever.
 
 ## ✨ Key Features
 
-* **🤖 AI-Powered Chat (GitBro)**: Ask questions about the codebase in natural language. GitBro uses the repository's context to give you accurate, grounded answers.
+* **🤖 AI-Powered Chat (RepoBro)**: Ask questions about the codebase in natural language. RepoBro uses the repository's context to give you accurate, grounded answers.
 * **📊 Interactive Dashboard**: Get a bird's-eye view of any repository with:
     * **Code Hotspots**: Instantly see the most active and complex files.
     * **Dependency Analysis**: Check for outdated packages and potential security risks.
@@ -46,7 +46,7 @@ Jumping into a new, complex GitHub repository can feel like navigating an ocean 
 
 ## 🏛️ How It Works: Architecture
 
-GitForMe uses a microservice architecture to separate concerns and ensure scalability.
+RepoMind uses a microservice architecture to separate concerns and ensure scalability.
 
 
 1.  **Frontend**: The user interacts with a responsive web app built with React, Vite, and Framer Motion.
@@ -60,15 +60,10 @@ GitForMe uses a microservice architecture to separate concerns and ensure scalab
   </div>
 </div>
 
-## 🎥 Watch How GitForMe Works
-
-* Get a quick walkthrough of the platform in under 5 minutes!
-
-[GitForMe Explainer Video](https://youtu.be/5_eIceKWo7o)
 
 ## 🚀 Get It Running Locally
 
-Want to run GitForMe on your own machine? Here’s how.
+Want to run RepoMind on your own machine? Here’s how.
 
 ### Prerequisites
 * [Node.js](https://nodejs.org/) (v18+) and npm
@@ -159,6 +154,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## 📧 Contact
 
-Herin - [@herin7](https://github.com/herin7)
+Herin - [@spy729](https://github.com/spy729)
 
-Project Link: [https://github.com/herin7/gitforme](https://github.com/herin7/gitforme)
+Project Link: [https://github.com/spy729/repomind](https://github.com/spy729/repomind)
