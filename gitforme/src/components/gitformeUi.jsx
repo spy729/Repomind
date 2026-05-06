@@ -281,7 +281,7 @@ const GitformeUi = () => {
       <footer className="text-center py-8 px-4 mt-16 border-t-2 border-black bg-white/50">
         <div className="flex flex-col items-center gap-3">
           <p className="flex items-center gap-2 text-gray-600 font-medium">
-            Inspired by: <a href="" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">Mrs. Bhumica Verma & Akhilesh Verma</a> 
+            Inspired by: <a href="" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">Mrs. Bhumica Verma & Mr Akhilesh Verma</a> 
           </p>
           <p className="flex items-center gap-2 text-gray-600 font-medium">
             <LaptopIcon />
