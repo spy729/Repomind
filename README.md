@@ -4,7 +4,7 @@
   <p>Your AI-powered co-pilot for navigating, understanding, and contributing to open-source projects.</p>
   <br/>
   <p>
-    <a href="https://repomind-rho-orcin.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-gitforme.tech-brightgreen?style=for-the-badge&logo=icloud" alt="Live Demo"></a>
+    <a href="https://repomind-rho-orcin.vercel.app/" target="_blank"><img alt="Live Demo"></a>
   </p>
 </div>
 
